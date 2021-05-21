@@ -23,8 +23,8 @@ Technology it's my motivation!
 ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-add8e6?style=flat-square&logo=mysql&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-FFFFFF?style=flat-square&logo=insomnia&logoColor=black)
 
-[![rodolfinhoc](https://github-readme-stats.vercel.app/api?username=rodolfinhoc&theme=dracula)](https://github.com/rodolfinhoc/) 
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-Rodolfo_Correia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-correia-81331219a/)](https://www.linkedin.com/in/rodolfo-correia-81331219a/) [![Gmail Badge](https://img.shields.io/badge/-rodolfo.correia02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolfo.correia02@gmail.com)](mailto:rodolfo.correia02@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@rodolfinho__c-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rodolfinho_c/)](https://www.instagram.com/rodolfinho_c/)
