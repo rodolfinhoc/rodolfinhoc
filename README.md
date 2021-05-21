@@ -1,8 +1,7 @@
 
 ## Languages and Tools 🧰
 
-### 👨‍💻 Languages and Tools
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)]
 
   
 ##  Contact Me :speech_balloon:
