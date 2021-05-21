@@ -7,7 +7,7 @@
 ![PHP](https://img.shields.io/badge/php-8993be?style=flat-square&logo=PHP&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white)
 ## Database 💾
-![MySQL](https://img.shields.io/badge/mysql-007ACC?style=flat-square&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-AAA?style=flat-square&logo=sql)
 ## Tools 🧰
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
