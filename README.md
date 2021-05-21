@@ -14,7 +14,7 @@ Technology it's my motivation!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-8993be?style=flat-square&logo=PHP&logoColor=white)
-![VB.NET](https://img.shields.io/badge/dotnet-BA55D3?style=flat-square&logo=dotnet=&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white)
 ## Database 💾
 ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-AAA?style=flat-square&logo=sql)
