@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" alt="VS Studio 2019" height="40" style="vertical-align:top; margin:4px">
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FMicrosoft_Visual_Studio&psig=AOvVaw0Beb5f1WdZQG3YAm38ubYj&ust=1621706160247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiUsrCs2_ACFQAAAAAdAAAAABAO" alt="VS Studio 2019" height="40" style="vertical-align:top; margin:4px">
 </p>
   
 ##  Contact Me :speech_balloon:
