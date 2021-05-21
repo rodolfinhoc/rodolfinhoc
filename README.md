@@ -20,7 +20,7 @@ Technology it's my motivation!
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-BA55D3?style=flat-square&logo=Visual-Studio)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-FF0000?style=flat-square&logo=FileZilla&logoColor=white)
-![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-FFFFFF?style=flat-square&logo=mysql&logoColor=black)
+![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-add8e6?style=flat-square&logo=mysql&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
 
