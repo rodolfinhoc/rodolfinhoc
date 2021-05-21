@@ -6,7 +6,7 @@ My main goal is to improve my skills in many different types of situations. I ha
 Technology it's my motivation!
  
 ## Languages 👨‍💻
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white)
