@@ -2,9 +2,9 @@
 
 Hi there, I'm **Rodolfo Correia**, a **beginner developer**.
  
-<img align="top-right" width="300" src="https://i.giphy.com/media/oFvFtrhrmIFFe/giphy.webp" />
-My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS, JavaScript and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform. I have experience in formatting, configuring and cleaning computer hardware in general, consoles and electronics.
 
+My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS, JavaScript and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform. I have experience in formatting, configuring and cleaning computer hardware in general, consoles and electronics.
+<img align="top-right" width="300" src="https://i.giphy.com/media/oFvFtrhrmIFFe/giphy.webp" />
 Technology it's my motivation!
 
  
