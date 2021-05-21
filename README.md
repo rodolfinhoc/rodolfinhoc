@@ -23,7 +23,7 @@ Technology it's my motivation!
 ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-add8e6?style=flat-square&logo=mysql&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-FFFFFF?style=flat-square&logo=insomnia&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-301934?style=flat-square&logo=insomnia&logoColor=black)
 
 
 ##  Contact Me :speech_balloon:
