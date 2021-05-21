@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-0078D7?style=flat-square&logo=VB.NET=&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-BA55D3?style=flat-square&logo=Visual-Studio)
 
