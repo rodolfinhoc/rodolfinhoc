@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=rodolfinhoc&color=006bed)
-
 ## Hey 👋, I'm Rodolfo Correia
 
 Hi there, I'm **Rodolfo Correia**, a **beginner developer**.
 My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS, JavaScript and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform. I have experience in formatting, configuring and cleaning computer hardware in general, consoles and electronics.
 
-Technology it's my motivation!
+Technology it's my motivation! 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
  
 ## Languages 👨‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
