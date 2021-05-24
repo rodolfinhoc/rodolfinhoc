@@ -9,12 +9,11 @@ Technology it's my motivation!
 
 ## Languages 👨‍💻
 <img align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white)
-![PHP](https://img.shields.io/badge/php-8993be?style=flat-square&logo=PHP&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white)
+<img align="left" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+<img align="right" src="https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white">
+<img align="right" src="https://img.shields.io/badge/php-8993be?style=flat-square&logo=PHP&logoColor=white">
+<img align="right" src="https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white">
 ## Database 💾
 ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-AAA?style=flat-square&logo=sql)
