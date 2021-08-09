@@ -8,25 +8,30 @@ Technology it's my motivation!
 
 
 ## Languages 👨‍💻
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/C-00008B?style=flat-square&logo=C&logoColor=white)
-![PHP](https://img.shields.io/badge/php-8993be?style=flat-square&logo=PHP&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-BA55D3?style=flat-square&logo=VB.NET=&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+## Frameworks 🚀
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ## Database 💾
-![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-AAA?style=flat-square&logo=sql)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ## Tools 🧰
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-BA55D3?style=flat-square&logo=Visual-Studio)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-FF0000?style=flat-square&logo=FileZilla&logoColor=white)
-![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-add8e6?style=flat-square&logo=mysql&logoColor=black)
-![PowerBI](https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-301934?style=flat-square&logo=insomnia&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Filezilla](https://img.shields.io/badge/Filezilla-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 ##  Contact Me :speech_balloon:
