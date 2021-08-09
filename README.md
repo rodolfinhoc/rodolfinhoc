@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rodolfo Correia
+## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rodolfo Correia
 
 Hi there, I'm **Rodolfo Correia**, a **beginner developer**.
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
@@ -34,6 +34,9 @@ Technology it's my motivation!
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-Rodolfo_Correia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-correia-81331219a/)](https://www.linkedin.com/in/rodolfo-correia-81331219a/) [![Gmail Badge](https://img.shields.io/badge/-Rodolfo_Correia-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolfo.correia02@gmail.com)](mailto:rodolfo.correia02@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@rodolfinho__c-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rodolfinho_c/)](https://www.instagram.com/rodolfinho_c/)
