@@ -35,7 +35,7 @@ Technology it's my motivation!
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-## Top Languages
+## Top Languages 💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfinhoc&hide=TeX&layout=compact)
 
 ##  Contact Me :speech_balloon:
