@@ -1,10 +1,8 @@
 ## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rodolfo Correia
 
-Hi there, I'm **Rodolfo Correia**, a **beginner developer**.
+Hi there, I'm **Rodolfo Correia**.
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
-My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS, JavaScript and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform. I have experience in formatting, configuring and cleaning computer hardware in general, consoles and electronics.
-
-Technology it's my motivation!
+My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS (Bootstrap), JavaScript/JQuery and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform.
 
 ## Languages 👨‍💻
 |         ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
