@@ -2,19 +2,22 @@
 
 Hi there, I'm **Rodolfo Correia**.
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
-My main goal is to improve my skills in many different types of situations. I had 1 year of experience in the WEB area, mainly using PHP, HTML, CSS (Bootstrap), JavaScript/JQuery and MySQL for database. Later I became very interested in the Business Intelligence area, and started to create my first interactive dashboards using Microsoft's PowerBi platform.
+My main objective is to improve my skills in the most different types of situations.
+With 2 years of experience in the WEB area, using mainly PHP, HTML + CSS + JavaScript, Jquery & Bootstrap. Later I developed some projects using the Angular  Framework with an API developed in NodeJS.
+The company's professionals have the opportunity to work and had the opportunity to work with the company's organization. I always try to be willing to help and learn, be in harmony with all employees.
 
 ## Languages 👨‍💻
 |         ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 |:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 |          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          |            ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)           |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |   ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |   ![C#](https://img.shields.io/badge/C%20SHARP-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)  |
 
 ## Frameworks 🚀
 |    ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)    |
 |:--------------------------------------------------------------------------------------------------------------:|
 | ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 |       ![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)       |
+|        ![NEST](https://img.shields.io/badge/NEST-C41E3A?style=for-the-badge&logo=nestjs&logoColor=white)       |
 
 ## Database 💾
 |                      ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)                      |
