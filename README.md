@@ -22,7 +22,7 @@ I always try to be willing to help and of course, to learn, being in harmony wit
 |        ![NEST](https://img.shields.io/badge/NEST-C41E3A?style=for-the-badge&logo=nestjs&logoColor=white)       |
 
 ## Database 💾
-|                      ![MySQL](https://img.shields.io/badge/MySQL-EF5B25?style=for-the-badge&logo=mysql&logoColor=white)                      |
+|                      ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)                      |
 |:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
 
