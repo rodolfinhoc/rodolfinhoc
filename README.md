@@ -31,7 +31,7 @@ I always try to be willing to help and of course, to learn, being in harmony wit
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 |          ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)          |      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)     |
 |                          ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                         | ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) |
-|                 ![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)                |      ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)     |
+|                 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)                |      ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)     |
 |                    ![Filezilla](https://img.shields.io/badge/Filezilla-F05032?style=for-the-badge&logo=git&logoColor=white)                   |   ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)  |
 
 ## Top Languages 💻
