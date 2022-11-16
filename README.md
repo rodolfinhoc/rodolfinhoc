@@ -3,8 +3,9 @@
 Hi there, I'm **Rodolfo Correia**.
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
 My main objective is to improve my skills in the most different types of situations.
-With 2 years of experience in the WEB area, using mainly PHP, HTML + CSS + JavaScript, Jquery & Bootstrap. Later I developed some projects using the Angular  Framework with an API developed in NodeJS.
-The company's professionals have the opportunity to work and had the opportunity to work with the company's organization. I always try to be willing to help and learn, be in harmony with all employees.
+With 3 years of experience in the WEB area, using mainly PHP, HTML + CSS + JavaScript, Jquery & Bootstrap. Later I improved myself in Angular + Ionic Framework, using C# in the Backend.
+I had the opportunity to work with competent professionals, who showed me how important interpersonal relationships and company organization are.
+I always try to be willing to help and of course, to learn, being in harmony with all the collaborators.
 
 ## Languages 👨‍💻
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
