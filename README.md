@@ -19,6 +19,7 @@ Procuro sempre estar disposto a ajudar e claro, aprender, estando em harmonia co
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60"/> </a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="60" height="60"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="60" height="60"/> </a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="60" height="60"/> </a>
 
 ## Banco de Dados 💾
 
