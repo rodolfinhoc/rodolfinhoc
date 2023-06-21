@@ -2,7 +2,8 @@
 
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
 Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, Pós Graduado em Banco de Dados e Business Intelligence, Desenvolvedor Full-Stack.
-<pre></pre>
+<br><br>
+<br><br>
 Seja bem-vindo ao meu perfil!
 
 <div id="user-content-toc">
