@@ -6,6 +6,7 @@ Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, Pós
 
 Seja bem-vindo ao meu perfil!
 
+##
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Linguagens & Tecnologias👨‍💻</h2></summary>
