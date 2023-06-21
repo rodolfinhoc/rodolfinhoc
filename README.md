@@ -1,5 +1,6 @@
 
 ## Fala Dev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, Sou Rodolfo Correia
+<img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
 Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, Pós Graduado em Banco de Dados e Business Intelligence, Desenvolvedor Full-Stack.
 
 Seja bem-vindo ao meu perfil!
