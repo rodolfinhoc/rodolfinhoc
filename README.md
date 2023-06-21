@@ -30,7 +30,7 @@ Seja bem-vindo ao meu perfil!
 </div>
 <p align="center">   <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=mysql&perline=14"/> </a>
- <img src="https://e7.pngegg.com/pngimages/816/377/png-clipart-microsoft-sql-server-microsoft-sql-server-database-administrator-computer-icons-table-free-high-quality-sql-server-icon-miscellaneous-text.png" width="64"/> </p>
+ <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50"/> </p>
 
 <div id="user-content-toc">
   <ul align="center">
