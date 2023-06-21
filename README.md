@@ -1,42 +1,44 @@
 ## Fala Dev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, Sou Rodolfo Correia
 
 <img align="right" width="300" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" />
-Meu objetivo principal é aprimorar as minhas habilidades nos mais diferentes tipos de situações.
-Com 3 anos de experiência na área WEB, utilizei principalmente PHP, HTML + CSS + JavaScript, Jquery & Bootstrap. Posteriormente me aprimorei em Angular + Ionic Framework, utilizando C# no Backend.
-Tive oportunidade de trabalhar com profissionais competentes, os quais me mostraram como é importante o relacionamento interpessoal e a organização da empresa.
-Procuro sempre estar disposto a ajudar e claro, aprender, estando em harmonia com todos os colaboradores.
+Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, Pós Graduado em Banco de Dados e Business Intelligence, Desenvolvedor Full-Stack.
+<pre></pre>
+Seja bem-vindo ao meu perfil!
 
-## Linguagens 👨‍💻
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Linguagens & Tecnologias👨‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img  src="https://skillicons.dev/icons?i=typescript,html,css,sass,javascript,jquery,cs,php,nodejs&perline=10"/>
+  </a>
+</p>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="60" height="60"/></a>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Frameworks 🚀</h2></summary>
+  </ul>
+</div>
+<p align="center">  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ionic-icon.png" width="49"/>  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nest,vue&perline=14"/> </a> </p>
 
-## Frameworks 🚀
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Banco de Dados 💾</h2></summary>
+  </ul>
+</div>
+<p align="center">   <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=mysql&perline=14"/> </a>
+ <img src="https://e7.pngegg.com/pngimages/816/377/png-clipart-microsoft-sql-server-microsoft-sql-server-database-administrator-computer-icons-table-free-high-quality-sql-server-icon-miscellaneous-text.png" width="64"/> </p>
 
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60"/> </a>
-<a href="https://ionicframework.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="60" height="60"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="60" height="60"/> </a>
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="60" height="60"/> </a>
-
-## Banco de Dados 💾
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-left: 15px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="60" height="60"/> </a>
-
-## Ferramentas 🧰
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a>
-<a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/> </a>
-<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="60" height="60"/> </a>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Desktop.svg" alt="powerbi" width="60" height="60"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="60" height="60"/> </a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Ferramentas & Sofwares🧰</h2></summary>
+  </ul>
+</div>
+<p align="center">   <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,gradle,aws,git,vercel,docker,linux,postman,nginx&perline=11"/> </a> </p>
 
 ## Top Linguagens 💻
 
