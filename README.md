@@ -46,9 +46,11 @@ Seja bem-vindo ao meu perfil!
     <summary><h2 style="display: inline-block">Top Linguagens 💻</h2></summary>
   </ul>
 </div>
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfinhoc&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfinhoc&layout=donut&card-width=500)
 
+</div>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Contato 💬</h2></summary>
