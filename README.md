@@ -1,5 +1,6 @@
 
 
+
 ## Fala Dev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, Sou Rodolfo Correia
 Tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, Pós Graduado em Banco de Dados e Business Intelligence, Desenvolvedor Full-Stack.
 
@@ -22,7 +23,7 @@ Seja bem-vindo ao meu perfil!
     <summary><h2 style="display: inline-block">Frameworks 🚀</h2></summary>
   </ul>
 </div>
-<p align="center">  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ionic-icon.png" width="49"/>  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nest,vue&perline=14"/> </a> </p>
+<p align="center">  <img src="https://styles.redditmedia.com/t5_320ze/styles/communityIcon_qomtlzo996u61.jpg" width="49"/>  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nest,vue&perline=14"/> </a> </p>
 
 <div id="user-content-toc">
   <ul align="center">
