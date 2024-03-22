@@ -21,7 +21,7 @@ Seja bem-vindo ao meu perfil!
     <summary><h2 style="display: inline-block">Frameworks 🚀</h2></summary>
   </ul>
 </div>
-<p align="center">  <img src="https://styles.redditmedia.com/t5_320ze/styles/communityIcon_qomtlzo996u61.jpg" width="49"/>  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,nest,vue&perline=14"/> </a> </p>
+<p align="center">  <img src="https://private-user-images.githubusercontent.com/105752126/313513323-78c15050-41bc-4a49-9ae0-ce8aea10ac77.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExMzc2MjYsIm5iZiI6MTcxMTEzNzMyNiwicGF0aCI6Ii8xMDU3NTIxMjYvMzEzNTEzMzIzLTc4YzE1MDUwLTQxYmMtNGE0OS05YWUwLWNlOGFlYTEwYWM3Ny5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMlQxOTU1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWVjYzlhYWM5M2JiYTg0YTcxYmQ5NDFlNjdkNDE2ZDM1MjVkZTE0OTkyNDRjNTk2NDNmZDFjOGYwOGM5YWU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VmcUURLg7JuZ3RJYLJwXAHT3sIGKqWcTNyBOf5t0xKY" width="49"/>  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,nest,vue&perline=14"/> </a> </p>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -30,7 +30,7 @@ Seja bem-vindo ao meu perfil!
 </div>
 <p align="center">   <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=14"/> </a>
- <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50"/> </p>
+ <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="43"/> </p>
 
 <div id="user-content-toc">
   <ul align="center">
