@@ -13,7 +13,7 @@ Seja bem-vindo ao meu perfil!
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-<img  src="https://skillicons.dev/icons?i=typescript,html,css,sass,javascript,jquery,cs,php,nodejs&perline=10"/>
+<img  src="https://skillicons.dev/icons?i=typescript,html,css,sass,javascript,jquery,cs,php,python,nodejs&perline=10"/>
   </a>
 </p>
 
@@ -40,12 +40,6 @@ Seja bem-vindo ao meu perfil!
 </div>
 <p align="center">   <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,gradle,jenkins,azure,aws,git,vercel,docker,linux,postman,nginx,gitlab,figma,redis&perline=8"/> </a> </p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Top Linguagens 💻</h2></summary>
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
