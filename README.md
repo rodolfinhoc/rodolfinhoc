@@ -1,7 +1,7 @@
 
 
 ## Fala Dev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, Sou Rodolfo Correia
-Tenho 24 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, pós graduado em Banco de Dados e Business Intelligence, Desenvolvedor WEB.
+Tenho 25 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP, pós graduado em Banco de Dados e Business Intelligence, Desenvolvedor Pleno.
 
 Seja bem-vindo ao meu perfil!
 
